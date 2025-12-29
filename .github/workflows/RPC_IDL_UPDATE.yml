@@ -1,3 +1,4 @@
+name: RPC_IDL_UPDATE
 on:
   push:
     branches: [ "*" ]

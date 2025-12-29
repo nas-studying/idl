@@ -1,7 +1,7 @@
 namespace go nas_fish
 
 struct SignUpReq {
-    1: required string email
+    1: required string email1
 }
 
 struct SignUpResp {
